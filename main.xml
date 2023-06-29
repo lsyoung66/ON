@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="main.xsl"?>
+<!DOCTYPE rec_book SYSTEM "main.dtd"[]>
+<rec_book>
+  <main>
+    <genre type="추리">
+      <main_image file="추리.jpg" w="150" h="150" />
+    </genre>
+    <genre type="로맨스">
+      <main_image file="로맨스.jpg" w="150" h="150" />
+    </genre>
+    <genre type="판타지">
+      <main_image file="판타지.jpg" w="150" h="150" />
+    </genre>
+    <copyright></copyright>
+  </main>
+</rec_book>

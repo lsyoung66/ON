@@ -1,0 +1,16 @@
+<!ELEMENT book (novel+)>
+<!ELEMENT novel (title, author, publisher, story, site, image)>
+
+<!ATTLIST novel  type CDATA #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT story EMPTY>
+<!ATTLIST story  href CDATA #REQUIRED>
+<!ELEMENT site EMPTY>
+<!ATTLIST site  href CDATA #REQUIRED>
+<!ELEMENT image EMPTY>
+<!ATTLIST image
+ 	file CDATA #REQUIRED
+	w CDATA #REQUIRED
+	h CDATA #REQUIRED>

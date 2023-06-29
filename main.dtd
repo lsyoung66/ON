@@ -1,0 +1,12 @@
+<!ELEMENT rec_book (main)>
+<!ELEMENT main (genre+, copyright)>
+
+<!ELEMENT genre (main_image)>
+<!ATTLIST genre  type CDATA #REQUIRED>
+<!ELEMENT main_image EMPTY>
+<!ATTLIST main_image
+	file CDATA #REQUIRED
+	w CDATA #REQUIRED
+	h CDATA #REQUIRED>
+ 
+ <!ELEMENT copyright (#PCDATA)>

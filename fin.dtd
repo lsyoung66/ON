@@ -1,0 +1,10 @@
+<!ELEMENT book (novel+)>
+<!ELEMENT novel (title,story,image)>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT story (#PCDATA)>
+<!ELEMENT image EMPTY>
+<!ATTLIST image
+	file CDATA #REQUIRED
+	w CDATA #REQUIRED
+	h CDATA #REQUIRED>

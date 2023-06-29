@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="romance.xsl"?>
+<!DOCTYPE book SYSTEM "middle.dtd"[]>
+<book>
+  <novel type="추리">
+    <title>비하인드 도어</title>
+    <author>B.A.패리스</author>
+    <publisher>아르테</publisher>
+    <story href="d1.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=12194999" />
+    <image file="detective1.PNG" w="350" h="500" />
+  </novel>
+  <novel type="추리">
+    <title>고백</title>
+    <author>미나토 가나에</author>
+    <publisher>비채</publisher>
+    <story href="d2.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=6096464" />
+    <image file="detective2.PNG" w="350" h="500" />
+  </novel>
+  <novel type="추리">
+    <title>13계단</title>
+    <author>다카노 가즈아키</author>
+    <publisher>황금가지</publisher>
+    <story href="d3.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=2081353" />
+    <image file="detective3.PNG" w="350" h="500" />
+  </novel>
+  <novel type="추리">
+    <title>봉제인형 살인사건</title>
+    <author>다니엘 콜</author>
+    <publisher>북플라자</publisher>
+    <story href="d4.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=12661649" />
+    <image file="detective4.PNG" w="350" h="500" />
+  </novel>
+  <novel type="추리">
+    <title>가면산장 살인사건</title>
+    <author>히가시노 게이고</author>
+    <publisher>재인</publisher>
+    <story href="d5.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=8273055" />
+    <image file="detective5.PNG" w="350" h="500" />
+  </novel>
+  <novel type="추리">
+    <title>내가 죽인 남자가 돌아왔다</title>
+    <author>황세연</author>
+    <publisher>마카롱</publisher>
+    <story href="d6.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=15257675" />
+    <image file="detective6.PNG" w="350" h="500" />
+  </novel>
+  <novel type="추리">
+    <title>용의자 X의 헌신</title>
+    <author>히가시노 게이고</author>
+    <publisher>재인</publisher>
+    <story href="d7.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=12481857" />
+    <image file="detective7.PNG" w="350" h="500" />
+  </novel>
+  <novel type="추리">
+    <title>돌이킬 수 없는 약속</title>
+    <author>야쿠마루 가쿠</author>
+    <publisher>북플라자</publisher>
+    <story href="d8.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=11611116" />
+    <image file="detective8.PNG" w="350" h="500" />
+  </novel>
+  <novel type="추리">
+    <title>콩가루 수사단</title>
+    <author>주영하</author>
+    <publisher>스윙테일 </publisher>
+    <story href="d9.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=16390016" />
+    <image file="detective9.PNG" w="350" h="500" />
+  </novel>
+  <novel type="판타지">
+    <title>숲과 별이 만날 때</title>
+    <author>글렌디 밴더라</author>
+    <publisher>걷는나무</publisher>
+    <story href="f1.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=16713263" />
+    <image file="fantasy1.PNG" w="350" h="500" />
+  </novel>
+  <novel type="판타지">
+    <title>트와일라잇</title>
+    <author>스태프니 메이어</author>
+    <publisher>북폴리오</publisher>
+    <story href="f2.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=4685304" />
+    <image file="fantasy2.PNG" w="350" h="500" />
+  </novel>
+  <novel type="판타지">
+    <title>제노사이드</title>
+    <author>다카노 가즈아키</author>
+    <publisher>황금가지</publisher>
+    <story href="f3.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=6946093" />
+    <image file="fantasy3.PNG" w="350" h="500" />
+  </novel>
+  <novel type="판타지">
+    <title>세월의 돌</title>
+    <author>전민희</author>
+    <publisher>제우미디어</publisher>
+    <story href="f4.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=6012571" />
+    <image file="fantasy4.PNG" w="350" h="500" />
+  </novel>
+  <novel type="판타지">
+    <title>달러구트 꿈 백화점</title>
+    <author>이미예</author>
+    <publisher>팩토리나인</publisher>
+    <story href="f5.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=16405427" />
+    <image file="fantasy5.PNG" w="350" h="500" />
+  </novel>
+  <novel type="판타지">
+    <title>해리포터</title>
+    <author>J.K. 롤링</author>
+    <publisher>문학수첩</publisher>
+    <story href="f6.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=15768828" />
+    <image file="fantasy6.PNG" w="350" h="500" />
+  </novel>
+  <novel type="판타지">
+    <title>창문 넘어 도망친 100세 노인</title>
+    <author>요나스 요나손</author>
+    <publisher>열린책들</publisher>
+    <story href="f7.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=10964667" />
+    <image file="fantasy7.PNG" w="350" h="500" />
+  </novel>
+  <novel type="판타지">
+    <title>드라이</title>
+    <author>닐 셔스터먼, 재러드 셔스터먼</author>
+    <publisher>창비</publisher>
+    <story href="f8.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=15478651" />
+    <image file="fantasy8.PNG" w="350" h="500" />
+  </novel>
+  <novel type="판타지">
+    <title>오베라는 남자</title>
+    <author>프레드릭 배크만</author>
+    <publisher>다산책방</publisher>
+    <story href="f9.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=9053751" />
+    <image file="fantasy9.PNG" w="350" h="500" />
+  </novel>
+  <novel type="로맨스">
+    <title>연애의 행방</title>
+    <author>히가시노 게이고</author>
+    <publisher>소미미디어</publisher>
+    <story href="r1.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=13212349" />
+    <image file="romance1.PNG" w="350" h="500" />
+  </novel>
+  <novel type="로맨스">
+    <title>파리5구의 여인</title>
+    <author>더글라스 케네디</author>
+    <publisher>밝은세상</publisher>
+    <story href="r2.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=6808188" />
+    <image file="romance2.PNG" w="350" h="500" />
+  </novel>
+  <novel type="로맨스">
+    <title>왜 나는 너를 사랑하는가</title>
+    <author>알랭 드 보통</author>
+    <publisher>청미래</publisher>
+    <story href="r3.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=3025716" />
+    <image file="romance3.PNG" w="350" h="500" />
+  </novel>
+  <novel type="로맨스">
+    <title>지구에서 한아뿐</title>
+    <author>정세랑</author>
+    <publisher>난다</publisher>
+    <story href="r4.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=15133733" />
+    <image file="romance4.PNG" w="350" h="500" />
+  </novel>
+  <novel type="로맨스">
+    <title>미 비포 유</title>
+    <author>조조 모예스</author>
+    <publisher>살림</publisher>
+    <story href="r5.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=7408122" />
+    <image file="romance5.PNG" w="350" h="500" />
+  </novel>
+  <novel type="로맨스">
+    <title>플립</title>
+    <author>웬들린 밴 드라닌</author>
+    <publisher>에프</publisher>
+    <story href="r6.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=12258341" />
+    <image file="romance6.PNG" w="350" h="500" />
+  </novel>
+  <novel type="로맨스">
+    <title>너의 이름은</title>
+    <author>신카이 마코토</author>
+    <publisher>대원씨아이</publisher>
+    <story href="r7.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=11463103" />
+    <image file="romance7.PNG" w="350" h="500" />
+  </novel>
+  <novel type="로맨스">
+    <title>봄, 거짓말</title>
+    <author>김제이</author>
+    <publisher>봄미디어</publisher>
+    <story href="r8.xml" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=16824461" />
+    <image file="romance8.PNG" w="350" h="500" />
+  </novel>
+  <novel type="로맨스">
+    <title>애프터 유</title>
+    <author>조조 모예스</author>
+    <publisher>아르테</publisher>
+    <story href="r9.xml" />
+    <site href="https://book.naver.com/bookdb/book_detail.nhn?bid=10600015" />
+    <image file="romance9.PNG" w="350" h="500" />
+  </novel>
+  <novel type="호러">
+    <title>그 환자</title>
+    <author>재스퍼 드윗</author>
+    <publisher>시월이일</publisher>
+    <story href="" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=16489481" />
+    <image file="horror1.PNG" w="350" h="500" />
+  </novel>
+  <novel type="호러">
+    <title>피버드림</title>
+    <author>조지 R.R. 마틴</author>
+    <publisher>은행나무</publisher>
+    <story href="" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=7578866" />
+    <image file="horror2.PNG" w="350" h="500" />
+  </novel>
+  <novel type="호러">
+    <title>크리피</title>
+    <author>마에카와 유타카</author>
+    <publisher>창해</publisher>
+    <story href="" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=10381644" />
+    <image file="horror3.PNG" w="350" h="500" />
+  </novel>
+  <novel type="호러">
+    <title>루거 총을 든 할머니</title>
+    <author>브누아 필리퐁</author>
+    <publisher>위즈덤하우스</publisher>
+    <story href="" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=15260257" />
+    <image file="horror4.PNG" w="350" h="500" />
+  </novel>
+  <novel type="호러">
+    <title>훔쳐보는 여자</title>
+    <author>민카 켄트</author>
+    <publisher>한스미디어</publisher>
+    <story href="" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=15053797" />
+    <image file="horror5.PNG" w="350" h="500" />
+  </novel>
+  <novel type="호러">
+    <title>검은집</title>
+    <author>기시 유스케</author>
+    <publisher>창</publisher>
+    <story href="" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=1353423" />
+    <image file="horror6.PNG" w="350" h="500" />
+  </novel>
+  <novel type="호러">
+    <title>죽여 마땅한 사람들</title>
+    <author>피터 스완슨</author>
+    <publisher>푸른숲</publisher>
+    <story href="" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=10769874" />
+    <image file="horror7.PNG" w="350" h="500" />
+  </novel>
+  <novel type="호러">
+    <title>폴른: 저주받은 자들의 도시</title>
+    <author>데이비드 발다치</author>
+    <publisher>더난출판사</publisher>
+    <story href="" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=15073187" />
+    <image file="horror8.PNG" w="350" h="500" />
+  </novel>
+  <novel type="호러">
+    <title>미안하다고 말해</title>
+    <author>마이클 로보텀</author>
+    <publisher>북로드</publisher>
+    <story href="" />
+    <site href="https://book.naver.com/bookdb/price.nhn?bid=11772564" />
+    <image file="horror9.PNG" w="350" h="500" />
+  </novel>
+</book>
